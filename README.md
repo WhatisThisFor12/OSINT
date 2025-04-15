@@ -25,8 +25,8 @@ Target: NADRA.GOV.PK
 This requires the understanding of **OSINT Framework** in order to gather relevant information using various 'tools' mentioned above. Also install following:
 
 - Kali Linux 6.11.2-amd64
-- NMAP
 - NetCraft
+- NMAP
 
 # Introduction
 The primary objective of this report is to provide an in-depth analysis of [NADRA.GOV.PK](https://www.nadra.gov.pk) based on open source information.
