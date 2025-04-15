@@ -2,7 +2,19 @@
 Target: NADRA.GOV.PK
 
 ## Tools
-Google Dorks, Shodan, WhoIs, NMAP, OSINT Framework, Social Searcher, LinkedIn, ViewDNS.INFO NetCraft, Google Lens, TrueCaller, Google Maps & Google Earth Street View
+- Google Dorks
+- Shodan
+- WhoIs
+- NMAP
+- OSINT Framework
+- Social Searcher
+- LinkedIn
+- ViewDNS.INFO
+- NetCraft
+- Google Lens
+- TrueCaller
+- Google Maps
+- Google Earth Street View
 
 ### Group Members
 - Syed Zain Ul Hasan Naqvi
@@ -11,8 +23,11 @@ Google Dorks, Shodan, WhoIs, NMAP, OSINT Framework, Social Searcher, LinkedIn, V
 - Junaid Iqbal
 
 # Preparing for OSINT
-- This requires the understanding of ** OSINT Framework ** in order to gather relevant information using various tools mentioned above.
-- Kali Linux
+This requires the understanding of ** OSINT Framework ** in order to gather relevant information using various tools mentioned above. Also install following:
+
+- Kali Linux 6.11.2-amd64
+- NMAP
+- NetCraft
 
 # Introduction
 The primary objective of this report is to provide an in-depth analysis of [NADRA.GOV.PK] (https://www.nadra.gov.pk based) on open source information.
