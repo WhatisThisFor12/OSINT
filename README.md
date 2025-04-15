@@ -60,4 +60,11 @@ The scope encompasses digital footprint aspect relevant to [https://www.nadra.go
 | NetCraft | https://www.netcraft.com |
 | MW Metdata | https://mattw.io |
 
+### Advanced Techniques & Live Investigations
+- Yandex Image Search
+- Google Lens
+- OSINT.email
+- TrueCaller
 
+### Full Report
+[Click Here To View]()
