@@ -21,6 +21,11 @@ Target: NADRA.GOV.PK
 - Muhammad Adnan
 - Junaid Iqbal
 
+#### Special Thanks
+- PMYSDP Batch II - NAVTTC
+- Mehar Muhammad Shaban Raza
+- NIIT
+
 # Preparing for OSINT
 This requires the understanding of **OSINT Framework** in order to gather relevant information using various 'tools' mentioned above. Also install following:
 
