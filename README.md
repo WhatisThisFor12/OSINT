@@ -40,4 +40,16 @@ The analysis covers a wide range of open sources, including but not limited to p
 The scope encompasses digital footprint aspect relevant to [https://www.nadra.gov.pk](https://www.nadra.gov.pk)
 
 
-# Search Engine Results
+### Advance Search Engine OSINT
+
+**Dorking Techniques** - Using Google, Bing and Yandex
+**Finding Hidden Pages** - Data Leaks using Google Dorks
+**Hands-On Challenge** - PDF, XLS Files and site specific data
+
+### Social Media Intellegence (SOCMINT)
+- [Social Searcher](www.social-searcher.com)
+- [LinkedIn](www.linkedin.com)
+- [Brand Mentions](www.branmentions.com)
+
+
+### Website & Domain Reconnaissance
