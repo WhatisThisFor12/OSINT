@@ -53,3 +53,6 @@ The scope encompasses digital footprint aspect relevant to [https://www.nadra.go
 
 
 ### Website & Domain Reconnaissance
+| Tool Name | URL |
+| --- | --- |
+| WhoIs | www.whois.com |
