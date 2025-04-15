@@ -55,9 +55,9 @@ The scope encompasses digital footprint aspect relevant to [https://www.nadra.go
 ### Website & Domain Reconnaissance
 | Tool | URL |
 | --- | --- |
-| WhoIs | www.whois.com |
-| ViewDNS | www.viewdns.info |
-| NetCraft | www.netcraft.com |
-| MW Metdata | www.mwmetadata.com |
+| WhoIs | https://www.whois.com |
+| ViewDNS | https://www.viewdns.info |
+| NetCraft | https://www.netcraft.com |
+| MW Metdata | https://mattw.io |
 
 
